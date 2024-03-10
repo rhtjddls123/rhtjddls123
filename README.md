@@ -20,7 +20,6 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 ```
 (19.03-     ) 명지대학교 융합소프트웨어학부
 (23.09-24.01) Sesac 청년취업사관학교 웹풀스텍과정
-(23.12.06-     ) 협업 및 일정관리 웹서비스 개발
 ```
 
 ### Language
