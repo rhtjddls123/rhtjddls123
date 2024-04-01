@@ -26,12 +26,27 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <div>
 	<img alt="Html5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=Html5&logoColor=white"/>
 	<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+	<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-	<img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-	<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"> 
+</div>
+</br>
+
+### Framework
+<div>
+	<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> 
+	<img alt="Express" src ="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
+	<img alt="Expo" src ="https://img.shields.io/badge/Expo-000000.svg?&style=for-the-badge&logo=expo&logoColor=white"/>
+	<img alt="Tailwind" src ="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white"/>
+</div>
+</br>
+
+### Library
+<div>
+	<img src="https://img.shields.io/badge/React-276DC3?style=for-the-badge&logo=React&logoColor=white"/>
+	<img src="https://img.shields.io/badge/React Native-276DC3?style=for-the-badge&logo=React&logoColor=white">
+	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
+	<img alt="StyledComponent" src ="https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </div>
 </br>
 
@@ -39,7 +54,6 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <div>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Unity&logoColor=white">
 <img alt="Github" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-<img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
 </br></br>
 
 ### About ME
